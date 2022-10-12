@@ -1,0 +1,17 @@
+R_Lengths,R_Names,starCDS,endCDS,PloyASignal,KeySites,miRTarNames,miRTarSites,Psites,NPrimer,FPrimer,RPrimer,InterP
+99,5'-UTR,100,7644,8188,957,miR-1307-5p,7905,4721,A6 Primers,279,980,CYP27A1
+1241,Beta-ketoacyl synthase,,,,1020,miR-669,8129,1241,G2-G3 Primers,888,2628,AHSA1
+43,Structure1,,,,1905,,,7277,I6 Primers,2552,3379,AASDHPPT
+1166,Acyl and malonyl transferases,,,,2070,,,3137,IB Primers,4244,4880,CDC5L
+2458,Structure2,,,,2469,,,6107,G5-G6 Primers,4791,6566,
+686,Enoyl reductase,,,,3480,,,5279,F6 Primers,6510,7312,
+761,Beta-ketoacyl reductase,,,,3912,,,1784,U6 Primers,7315,8211,
+268,Structure3,,,,4101,,,134,,,,
+914,Thioesterase,,,,4506,,,6560,,,,
+576,3'-UTR,,,,4809,,,6380,,,,
+,,,,,4899,,,2492,,,,
+,,,,,6054,,,,,,,
+,,,,,6339,,,,,,,
+,,,,,6420,,,,,,,
+,,,,,6771,,,,,,,
+,,,,,6963,,,,,,,
